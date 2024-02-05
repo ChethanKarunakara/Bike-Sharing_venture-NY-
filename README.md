@@ -2,7 +2,7 @@
 
 This project is developed by Chethan Karunakara .
 
-## [Link to Visualization](https://public.tableau.com/app/profile/chethan.karunakara/viz/Bikesharing_ventureNY/CheckoutTimesforUsersViz#1)
+## [Link to Visualization](https://public.tableau.com/app/profile/chethan.karunakara/viz/Bikesharing_ventureNY/CheckoutTimesforUsersViz#1) 
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 This project showcases a business proposal for investors in Des Moines to demonstrate that a bike-sharing program is a solid business venture.
